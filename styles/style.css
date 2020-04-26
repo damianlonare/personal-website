@@ -1,3 +1,28 @@
 html {
-    font-family: sans-serif;
+    font-size: 1em;
+    font-family: Verdana;    
+}
+
+body {
+    margin: 0;
+}
+
+.header {
+    min-height: 80px;
+    background-color: #ef9a9a;
+    border-color: #ef9a9a;
+}
+
+.main {
+    padding: 30px 15px;
+    background-color: #ef9a9a;
+    border-color: #ef9a9a;
+}
+
+footer {
+    padding: 30px 15px;
+}
+
+.header__title {
+    font-weight: normal;
 }
